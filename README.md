@@ -1,4 +1,4 @@
-# alpine base
+# Alpine linux based image
 
 # Supported tags and respective `Dockerfile` links
 
