@@ -1,3 +1,3 @@
-from Alpine:3.5
+from alpine:latest
 
-Maintainer pete<whoget@gmail.com>
+MAINTAINER Pete <whoget@gmail.com>
